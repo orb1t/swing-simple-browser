@@ -1,1 +1,4 @@
-# swing-simple-browser
+SimpleSwingBrowser
+==================
+
+SimpleSwingBrowser
